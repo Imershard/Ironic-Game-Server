@@ -1,7 +1,14 @@
 {
-  "spriteId": null,
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oWall",
+  "spriteId": {
+    "name": "sWall",
+    "path": "sprites/sWall/sWall.yy",
+  },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -24,8 +31,4 @@
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "oWall",
-  "tags": [],
-  "resourceType": "GMObject",
 }
